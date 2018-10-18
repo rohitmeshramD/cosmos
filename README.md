@@ -12,7 +12,7 @@
       <p>All you need to know about the world we live in!</p>
     </div>
     <div>
-      <img src="" alt="Our solar system">
+      <img src="https://cdn.shopify.com/s/files/1/1076/8780/products/SolarSystem-10x20.png?v=1503417059" alt="Our solar system">
       <p>
         The above image depicts the star and planets that make up our solar system. There are total of 9 planets including earth in this system. Some planets are the size of our moon, whereas some planets are so large that thousands of earth can fit into them! Now our star, 'The Sun' is so large that even all planets combined and multiplied by 1000 will easily fit inside it. Now thats BIG.
       </p>
