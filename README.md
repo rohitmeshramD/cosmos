@@ -3,7 +3,7 @@
     <title>
       cOsmOs
     </title>
-    <link type="text/css" href="https://github.com/rohitmeshramD/cosmosCSS/master.css">
+    <link type="text/css" href="https://github.com/rohitmeshramD/cosmosCSS/CSS-for-cosmos/README.md">
   </head>
   <body>
     <div>
