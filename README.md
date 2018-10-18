@@ -6,7 +6,7 @@
     <link type="text/css" href="https://github.com/rohitmeshramD/cosmosCSS/CSS-for-cosmos/README.md">
   </head>
   <body>
-    <div>
+    <div style="background:#335; color:#eee">
       <h1>
         cOsmOs
       </h1>
